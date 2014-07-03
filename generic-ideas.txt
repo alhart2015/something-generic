@@ -13,5 +13,10 @@ each "button" has a color.
 when you step on a "button", you turn on the "bridges" that have that color.
 
 COMMENTS
-
+ - My only concern here is that this opens the door for unsolvable levels.  
+   Because this isn't a deterministic game (like 2048 or even sudoku) we
+   could run into problems like levels that are either too easy or impossible.
+   One possible way around this could be to do it the way (I assume) flow does
+   it, which is make complete levels and backtrack to the starting configuration,
+   but I'm not sure how hard that would be.  Thoughts?
 QUESTIONS
