@@ -1,0 +1,17 @@
+generic-ideas.txt
+Text file to share our ideas about this project.
+
+IDEAS
+Game idea:
+you are trying to find a path from point a to point b.
+you get there by going across "bridges".
+connecting the bridges are "islands".
+each "bridge" has a color.
+each "bridge" is either on or off.
+each "island" either has a "button" on it or does not.
+each "button" has a color.
+when you step on a "button", you turn on the "bridges" that have that color.
+
+COMMENTS
+
+QUESTIONS
